@@ -13,7 +13,7 @@ I am a passionate software developer who loves turning ideas into real solutions
 
 - 🌱 I’m currently learning: **Generative AI, Pydantic & FastAPI**
 
-- 💬 Ask me about: **Python, Django, Django rest framework(DRF), Vue.js**
+- 💬 Ask me about: **Python, FastAPI, Django, Django rest framework(DRF), Vue.js**
 
 - 📫 How to reach me **developer.polash@outlook.com**
 
